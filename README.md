@@ -1,2 +1,2 @@
 # html-portfolio
-Just a simpler beginner html portfolio to showcase the work i've done so far
+Just a simple beginner html portfolio to showcase the work i've done so far
